@@ -1,0 +1,61 @@
+﻿Food,Type,Price,Rating
+Chilli Potato,Starters,180,4
+Mushroom 65,Starters,200,4.6
+Hara Bhara Kebab,Starters,180,4.8
+Paneer Tikka,Starters,220,4.9
+Crispy Corn,Starters,160,4.4
+Veg Momos,Starters,180,4
+Pani Puri,Snacks,100,3.9
+Samosa,Snacks,20,4.5
+Chole Bhature,Snacks,150,5
+Kachori,Snacks,20,4.8
+Vada Pao,Snacks,50,4.8
+Pav Bhaji,Snacks,160,4
+Burger,Snacks,180,4.2
+Noodles,Snacks,200,4.2
+Red Sauce Pasta,Snacks,220,4.5
+White Sauce Pasta,Snacks,220,4.5
+Veg Maggie,Snacks,50,5
+Tomato Soup,Soups,80,4.8
+Sweet Corn Soup,Soups,80,4.8
+Veg Manchaw,Soups,80,4.8
+Fresh Lime Soda,Beverage,80,5
+Pepsi,Beverage,50,5
+Coke,Beverage,50,4.5
+Fanta,Beverage,50,4.8
+7 up,Beverage,50,3
+Masala Dosa,South Indian,120,4.5
+Plain Dosa,South Indian,100,4.8
+Idli Vada,South Indian,80,4.7
+Vada,South Indian,70,4.9
+Uthappam,South Indian,120,5
+Naan,Breads,25,5
+Tandoori Roti,Breads,20,5
+Rumali Roti,Breads,25,5
+Tawa Roti,Breads,15,5
+Kulcha,Breads,25,4.8
+Jeera Rice,Rice,100,4.8
+Plain Rice,Rice,75,4.7
+Fried Rice,Rice,150,4.8
+Biryani,Rice,180,5
+Pulao,Rice,150,4.8
+Gulab Jamun,Dessert,30,5
+Rasgulla,Dessert,30,5
+Rasmalai,Dessert,70,5
+Gajar Halwa,Dessert,50,4.5
+Moong Dal Halwa,Dessert,50,4.5
+Ice Cream,Dessert,25,4.5
+Kulfi Faluda,Dessert,30,4.8
+Kadai Paneer,Main Course,200,4.5
+Shahi Paneer,Main Course,220,4.6
+Manchoorian,Main Course,180,4.8
+Aloo Gobi,Main Course,140,4.8
+Mixed Veg,Main Course,140,4
+Ladyfinger,Main Course,150,3.8
+Chole,Main Course,180,5
+Rajma,Main Course,180,5
+Tuar Dal,Main Course,150,4.8
+Moong Dal,Main Course,150,4.8
+Chilli Paneer,Main Course,200,5
+Veg Kofta,Main Course,180,5
+Mashroom Peas,Main Course,150,4
