@@ -31,6 +31,21 @@ def generate_similar_items(item_name, features, item_similarity, num_recommendat
 
 app=Flask(__name__)
 
+"""
+
+@app.route('/')
+def hello_world():
+    return "Hello RC12"
+
+@app.route('/one')
+
+def hello_1():
+    return "Way to 25"
+
+@app.route('/two')
+def hello_2():
+    return "Mission 25"
+"""
 @app.route('/post', methods=["POST"])
 def func():
     input_item=request.form["value"]
